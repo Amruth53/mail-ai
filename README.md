@@ -39,6 +39,3 @@ The extension injects a **“✨ Reply with AI”** button into Gmail’s reply 
 - VS Code
 
 ---
-
-## 📁 Project Structure
-
